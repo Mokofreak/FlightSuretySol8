@@ -1,0 +1,27 @@
+{
+  "name": "flightsurety",
+  "version": "1.0.0",
+  "description": "FlightSurety is a sample application project for Udacity's Blockchain course.",
+  "main": "/src/dapp/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarode/FlightSurety.git"
+  },
+  "author": "Jasper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yarode/FlightSurety/issues"
+  },
+  "homepage": "https://github.com/yarode/FlightSurety#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "bignumber.js": "^9.0.1",
+    "openzeppelin-solidity": "^4.3.3"
+  }
+}
